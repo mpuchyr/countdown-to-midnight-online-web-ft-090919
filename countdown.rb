@@ -1,4 +1,8 @@
 #write your code here
 
-def countdown
+def countdown(num)
+  
+  
+  "HAPPY NEW YEAR!"
+  
 end
