@@ -12,4 +12,9 @@ end
 
 def countdown_with_sleep(num)
   
+  until num == 0 do
+    puts "#{num} SECONDS(S)!"
+    num -= 1
+    sleep 1
+  end
 end
